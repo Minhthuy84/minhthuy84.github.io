@@ -1,9 +1,5 @@
 @media only screen and (min-width: 992px)
 {
-body {
-	background: url(../images/trong-dong.svg) center no-repeat;
-	background-size: 100%;
-	}
 .menu a{
 	 font: normal 1em 'Paytone One',sans-serif;
     padding: 15px;

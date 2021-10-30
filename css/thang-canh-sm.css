@@ -11,7 +11,7 @@
 	h3 {
     text-align: justify;
 	}
-	.link {
-		display: none;
-	}
+	    .link a {
+        font-size: 0.7em
+    }
 }

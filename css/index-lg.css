@@ -18,20 +18,17 @@
 		clear: both;
 		display: block;
 	}
-	body {
-		background: url(../images/trong-dong.svg) center no-repeat;
-		background-size: 100%;
-	}
+
 		.menu a{
 	 font: normal 1em 'Paytone One',sans-serif;
     padding: 15px;
 	}
-	h3 {
-		font: bold 1.5em Mitr, sans-serif;
-	}
+	    h3 {
+        font: bold 1.5em Mitr, sans-serif;
+        text-align: center;
+    }
 	.igroup {
 		display: flex;
-		flex-flow: row nowrap;
 	}
 	.hinh-anh {
 		padding: 0 1vw;
@@ -46,7 +43,4 @@
 	.caption {
 		font-size: 2vw;
 		bottom: 60px;
-	}
-	.paragraph {
-		display: none;
 	}

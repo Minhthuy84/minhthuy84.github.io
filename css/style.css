@@ -2,6 +2,7 @@ body {
     box-sizing: border-box;
     margin: auto;
     font-family: sans-serif;
+    background-color: #DCF8FF;
 }
 main {
     padding: 0 10px;
@@ -63,7 +64,7 @@ nav {
         padding-bottom: 10px;
     }
     .link a {
-        font-family: 'Francois One', sans-serif;
+        font: 1em 'Francois One', sans-serif;
         color: #004CAA;
         display: block;
     }

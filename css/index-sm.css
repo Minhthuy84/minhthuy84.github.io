@@ -22,7 +22,7 @@
     bottom: 40px;
     font: bold 1.2em 'Dancing Script', sans-serif;
 	}
-	.link {
-		display: none;
-	}
+    .link a {
+        font-size: 0.7em
+    }
 }

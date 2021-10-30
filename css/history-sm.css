@@ -14,7 +14,7 @@
     padding-top: 40px;
     text-align: justify;
 	}
-	.link {
-		display: none;
-	}
+	    .link a {
+        font-size: 0.7em
+    }
 }

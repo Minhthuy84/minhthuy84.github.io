@@ -1,7 +1,4 @@
-body {
-    box-sizing: border-box;
-    margin: auto;
-}
+
 main {
     padding: 0 10px;
 }
@@ -13,12 +10,9 @@ main {
     max-width: 100%;
     border-radius: 5%;
 }
-
-.paragraph {
-    margin-top: 0;
-    text-align: justify;
-    text-indent: 20px;
-}
+    h3 {
+        font: bold 1em Mitr, sans-serif;
+    }
 .caption {
     position: relative;
     margin: 0;
