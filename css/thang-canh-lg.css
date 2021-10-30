@@ -5,6 +5,10 @@
 		background: url(../images/trong-dong.svg) center no-repeat;
 		background-size: 100%;
 	}
+		.menu a{
+	 font: normal 1em 'Paytone One',sans-serif;
+    padding: 15px;
+	}
 	main {
 		display: flex;
 		flex-direction: column;
