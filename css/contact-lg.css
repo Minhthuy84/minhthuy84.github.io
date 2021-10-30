@@ -7,7 +7,16 @@
 	 font: normal 1em 'Paytone One',sans-serif;
     padding: 15px;
 	}
+.container {
+	display: flex;
+	justify-content: center;
+	margin-top: 40px;
 
+}
+	input {
+		padding: 5px;
+		margin-bottom: 10px;
+	}
 .link {
 	display: flex;
 }
