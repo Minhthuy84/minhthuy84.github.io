@@ -1,0 +1,20 @@
+@media only screen and (min-width: 992px)
+{
+		body {
+		margin-bottom: 80px;
+	}
+.menu a{
+	 font: normal 1em 'Paytone One',sans-serif;
+    padding: 15px;
+	}
+
+.link {
+	display: flex;
+}
+	footer {
+		position: fixed;
+		left: 0;
+		bottom: 0;
+		right: 0;
+	}
+}
